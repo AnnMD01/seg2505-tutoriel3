@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957105319245",
+    "project_id": "seg2505-tutoriel3-1b23d",
+    "storage_bucket": "seg2505-tutoriel3-1b23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957105319245:android:f9eee1da88ddb53e455b04",
+        "android_client_info": {
+          "package_name": "com.seg2505.tutoriel3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCulCwfpnRs0ybsJAsn_u9wcI8zTb6EiRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
